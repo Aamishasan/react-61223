@@ -4,5 +4,5 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 300px 1fr 300px;
-    background: green;
+    /* background: green; */
 }
